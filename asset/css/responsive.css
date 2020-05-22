@@ -1,0 +1,817 @@
+/* XL (laptop) Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    
+}
+@media (min-width: 1200px) and (max-width: 1300px) {
+    /* #become_memeber .craft_line {
+        width: 53%;
+    } */
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    #header_top .header_top_right ul li a.free_demo {
+        padding: 10px 24px;
+        margin-left: 0px;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content a {
+        width: 174px;
+        margin-right: 8px;
+    }
+    #feater_area .feater_area_main .feater_area_main_item h3 {
+        font-size: 13px;
+        margin-top: 30px;
+    }
+    #feater_area .feater_area_main .feater_area_main_item p {
+        margin-top: 6px;
+    }
+    #homeLook .homeLook_main_container .homeLook_item h4 {
+        font-size: 16px;
+    }
+    #become_memeber .craft_line {
+        left: 50%;
+        width: 64%;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left p {
+        margin-top: 1px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left h5 {
+        margin-top: 5px;
+    }
+    #videoPopUp .videoPopUp_container {
+        max-height: 510px;
+    }
+    #calenderBanar .calenderBanar_container h3 {
+        font-size: 30px;
+    }
+    #calenderBanar .calenderBanar_container p {
+        font-size: 14px;
+        margin-top: 7px;
+    }
+    #calender_top .calender_top_content h3 {
+        font-size: 20px;
+    }
+    #calender_top .calender_top_content .date_select .date_select_box {
+        width: 48%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    #header_top .header_top_right ul li a.free_demo {
+        padding: 8px 14px;
+        margin-left: 0px;
+    }
+    #header_top .menu ul li a {
+        font-size: 13px;
+        padding: 10px 4px;
+        margin-right: 1px;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content a {
+        width: 180px;
+        margin-right: 12px;
+    }
+    #KlubOffer .KlubOffer_container .KlubOffer_item .KlubOffer_item_conetent h3 {
+        font-size: 24px;
+    }
+    #KlubOffer .KlubOffer_container .KlubOffer_item .KlubOffer_item_conetent p {
+        margin-top: 10px;
+    }
+    .feater_area_main_item{
+        margin-bottom: 30px;
+    }
+    #workshop_klub .workshop_klub_container .workshop_klub_item ul li {
+        font-size: 13px;
+        margin-right: 0px;
+    }
+    .homeLook_item.text-center img {
+        height: 65px;
+    }
+    #homeLook .homeLook_main_container .homeLook_item {
+        padding: 39px 10px;
+    }
+    #homeLook .homeLookTop h3 {
+        font-size: 19px;
+    }
+    #become_memeber .craft_line {
+        width: 74%;
+    }
+    #packdge .packdge_main .packdge_item_1 {
+        right: 0px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active {
+        padding: 30px 10px 0px 0px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .personal_stories_slider_item_content p {
+        font-size: 10px;
+        line-height: 18px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left h4 {
+        margin-top: 3px;
+        font-size: 13px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left p {
+        margin-top: 5px;
+        font-size: 9px;
+        line-height: 13px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_right a {
+        width: 100%;
+        float: right;
+        font-size: 10px;
+    }
+    #homeInfo_bottom .homeInfo_bottom_content_2 h4 {
+        font-size: 18px;
+    }
+    #footer {
+        height: 200px;
+    }
+    #calender_top .calender_top_content .date_select .date_select_box {
+        width: 50%;
+    }
+    #calender_top .calender_top_content h3 {
+        font-size: 20px;
+    }
+    #calender_top .calender_top_content .date_select {
+        margin-top: 20px;
+    }
+    #calender_top {
+        padding: 130px 0px 50px 0px;
+    }
+    #calenderBanar .calenderBanar_container img {
+        top: -40px;
+        left: 6px;
+    }
+    #calenderBanar .calenderBanar_container p {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+    #calenderBanar .calenderBanar_container h3 {
+        font-size: 25px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+}
+
+/*-- Phone Landscape --*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    #header_top{
+        display: none;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content h3 {
+        font-size: 28px;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content p {
+        font-size: 14px;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content a {
+        padding: 11px 20px;
+        font-size: 11px;
+        margin-top: 10px;
+        margin-right: 4px;
+        width: auto;
+    }
+    #homeBanarBottom .homeBanarBottom_content h4 {
+        font-size: 18px;
+    }
+    #homeBanarBottom .homeBanarBottom_content a {
+        font-size: 16px;
+        margin-left: 9px;
+    }
+    #KlubOffer .KlubOffer_tittle h3 {
+        font-size: 22px;
+    }
+    #KlubOffer .KlubOffer_container .KlubOffer_item .KlubOffer_item_conetent h3 {
+        font-size: 17px;
+    }
+    #KlubOffer .KlubOffer_container .KlubOffer_item .KlubOffer_item_conetent p {
+        font-size: 14px;
+        width: 100%;
+        margin-top: 11px;
+    }
+    #feater_area .feater_area_main .feater_area_main_item h3 {
+        font-size: 14px;
+        margin-top: 20px;
+    }
+    #feater_area .feater_area_main .feater_area_main_item p {
+        font-size: 12px;
+    }
+    #feater_area .feater_area_main .feater_area_main_item{
+        margin-bottom: 30px;
+    }
+    #workshop_klub .workshop_klub_title h3 {
+        font-size: 20px;
+    }
+    .workshop_klub_item.text-center img {
+        height: 58px;
+    }
+    #workshop_klub .workshop_klub_container .workshop_klub_item h3 {
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    #homeLook .homeLookTop h3 {
+        font-size: 16px;
+    }
+    .homeLook_item.text-center img {
+        height: 70px;
+    }
+    #homeLook .homeLook_main_container .homeLook_item h4 {
+        font-size: 13px;
+    }
+    #homeLook .homeLook_main_container .homeLook_item {
+        padding: 20px 10px;
+        margin-bottom: 30px;
+    }
+    #become_memeber .craft_line {
+        top: 92px;
+        width: 85%;
+    }
+    #packdge .packdge_main .packdge_item_1 {
+        right: 0px;
+    }
+    #packdge .packdge_main .packdge_item {
+        padding: 0px;
+    }
+    #packdge .packdge_main .packdge_item .packdge_item_title {
+        border-radius: 0px;
+    }
+    #packdge .packdge_main .packdge_item .packdge_item_price_btn a {
+        width: 100%;
+        border-radius: 0px;
+    }
+    #stories_area .personal_stories_slider .title_top h3 {
+        font-size: 18px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active {
+        padding: 0px;
+    }
+    .personal_stories_slider_item{
+        padding-bottom: 70px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .personal_stories_slider_item_content p {
+        font-size: 10px;
+        line-height: 20px;
+        padding-top: 13px;
+    }
+    .personal_stories_slider_item_content,.personal_stories_slider_item_image{
+        padding-left: 40px;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_active .klub_stories_slider_item .klub_stories_slider_item_content p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_active .klub_stories_slider_item .klub_stories_slider_item_content h3 {
+        margin-top: 30px;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_active .owl-dots {
+        margin-top: 20px;
+    }
+    #homeInfo_bottom .homeInfo_bottom_content h4 {
+        font-size: 18px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left h4 {
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left p {
+        margin-top: 5px;
+        font-size: 10px;
+        line-height: 16px;
+    }
+    .calender_item_image > img {
+        height: 198px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left ul li {
+        font-size: 11px;
+    }
+    #videoPopUp .videoPopUp_container {
+        width: 90%;
+        max-height: 75%;
+    }
+    #videoPopUp .videoPopUpClose {
+        top: 10px;
+        right: 30px;
+    }
+    #calender_main .caleder_main_main_item:after {
+       display: none;
+    }
+    #calender_main .calender_main_item {
+        padding-bottom: 10px;
+    }
+    #calender_main .caleder_main_main_item {
+        margin-bottom: 10px;
+    }
+    #calender_top {
+        padding: 130px 0px 40px 0px;
+    }
+    #calender_top .calender_top_content .date_select .date_select_box {
+        width: 69%;
+    }
+    #mobileHeader{
+        display: block;
+    }
+    #MobileSidebarMenu{
+        display: block;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.4s;
+    }
+    #MobileSidebarMenu.show{
+        opacity: 1;
+        visibility: visible;
+    }
+    #MobileSidebarMenu{
+        width: 48%;
+    }
+    .craft_line_2{
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* Extra small Device. */
+@media (max-width: 575px) {
+    #header_top{
+        display: none;
+    }
+    #mobileHeader{
+        display: block;
+    }
+    #MobileSidebarMenu{
+        display: block;
+        opacity: 0;
+        visibility: hidden;
+        transition: 0.4s;
+    }
+    #MobileSidebarMenu.show{
+        opacity: 1;
+        visibility: visible;
+    }
+    .heroHome_content {
+        text-align: center;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content h3 {
+        font-size: 34px;
+        margin-top: 21px;
+    }
+    #heroHome{
+        padding-bottom: 50px;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content p {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    #heroHome .heroTable .heroTableCell .heroHome_content a {
+        padding: 17px 0px;
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 20px;
+        border-width: 2px;
+        font-size: 13px;
+    }
+    #homeBanarBottom .homeBanarBottom_content a {
+        display: block;
+        margin-top: 10px;
+    }
+    #homeBanarBottom .homeBanarBottom_content h4 {
+        font-size: 18px;
+    }
+    #KlubOffer .KlubOffer_tittle h3 {
+        font-size: 18px;
+    }
+    #KlubOffer .KlubOffer_container {
+        margin-top: 30px;
+    }
+    #KlubOffer{
+        display: none;
+    }
+    #klubOfferMobile{
+        display: block;
+    }
+    #feater_area .feater_area_title h3 {
+        font-size: 18px;
+    }
+    #feater_area {
+        padding: 20px 0px 60px 0px;
+    }
+    .feater_area_main_item.text-center {
+        margin-bottom: 30px;
+    }
+    #workshop_klub .workshop_klub_title h3 {
+        font-size: 17px;
+    }
+    .workshop_klub_item.text-center {
+        margin-bottom: 30px;
+    }
+    #change_expect .change_expect_title h3 {
+        font-size: 18px;
+    }
+    #change_expect .change_expect_main_container .change_expect_item h5 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #homeLook .homeLookTop h3 {
+        font-size: 17px;
+        line-height: 26px;
+    }
+    #homeLook .homeLook_main_container .homeLook_item {
+        padding: 40px 10px;
+        margin-bottom: 30px;
+    }
+    #homeLook .homeLook_main_container .homeLook_item h4 {
+        font-size: 16px;
+    }
+    #become_memeber .become_memeber_title h3 {
+        font-size: 18px;
+    }
+    #become_memeber .become_memeber_container .become_memeber_item .become_memeber_item_content .right h4 {
+        font-size: 13px;
+        width: 164px;
+    }
+    #become_memeber .become_memeber_container .become_memeber_item .become_memeber_item_content .right p {
+        font-size: 12px;
+        margin-top: 3px;
+        width: 177px;
+    }
+    #become_memeber .become_memeber_container .become_memeber_item .become_memeber_item_content .left h4:before {
+        right: -20px;
+        width: 2px;
+    }
+    #become_memeber .become_memeber_container .become_memeber_item .become_memeber_item_content .left h4:after {
+        right: -20px;
+        width: 2px;
+    }
+    #become_memeber .become_memeber_container .become_memeber_item .become_memeber_item_content_3 .left h4:after {
+        height: 48px;
+        right: -25px !important;
+    }
+    .become_memeber_item_image_4 img{
+        position: relative;
+        right: -12px;
+    }
+    #become_memeber .craft_line {
+        top: 104px;
+        width: 96%;
+    }
+    #packdge .packdge_main .packdge_item_1 {
+        right: 0px;
+    }
+    .craft_line{
+        display: none;
+    }
+    .craft_line_2 {
+        position: absolute;
+        top: 124px;
+        right: 32px;
+    }
+    #packdge .packdge_main {
+        margin-top: 20px;
+    }
+    #packdge .packdge_main .packdge_item .packdge_item_content {
+        padding: 20px 0px;
+    }
+    .packdge_item {
+        margin-bottom: 30px;
+    }
+    #stories_area .personal_stories_slider .title_top h3 {
+        font-size: 17px;
+    }
+    .title_top.text-center {
+        text-align: center !important;
+    }
+    #stories_area {
+        padding: 30px 0px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active {
+        margin-top: 30px;
+        padding: 0px;
+        border-radius: 10px 10px 0px 0px;
+    }
+    .mpl0{
+        padding-left: 0px !important;
+    }
+    .mpr0{
+        padding-right: 0px !important;
+    }
+    .personal_stories_slider_item_image img {
+        height: 247px;
+        width: auto !important;
+        float: right;
+    }
+    .personal_stories_slider_item_content {
+        padding: 25px 15px 10px 15px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .personal_stories_slider_item_content p {
+        font-size: 9px;
+        line-height: 14px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .personal_stories_slider_item_content h4 {
+        font-size: 12px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .personal_stories_slider_item_content h5 {
+        font-size: 10px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .owl-dots{
+        border-radius: 10px 10px 0px 0px;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .owl-dots .owl-dot {
+        background: #ADB7BF;
+    }
+    #stories_area .personal_stories_slider .personal_stories_slider_active .owl-dots .owl-dot.active {
+        background: #787272;
+    }
+    #stories_area .klub_stories_slider {
+        margin-top: 40px;
+    }
+    #stories_area .klub_stories_slider .title_top h3 {
+        font-size: 17px;
+    }
+    .klub_stories_slider_item_image img {
+        height: 200px;
+        width: auto !important;
+        margin: 0 auto;
+        display: table;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_active .klub_stories_slider_item .klub_stories_slider_item_content p {
+        font-family: fbook;
+        font-size: 12px;
+        color: #393939;
+        line-height: 18px;
+        text-align: center;
+        padding: 0px 10px;
+        margin-top: 21px;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_active .klub_stories_slider_item .klub_stories_slider_item_content h3 {
+        margin-top: 17px;
+        font-size: 14px;
+        text-align: center;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_active .owl-dots {
+        margin-top: 17px;
+    }
+    #stories_area .klub_stories_slider .klub_stories_slider_read_all_btn a {
+        display: block;
+        padding: 12px 0px;
+        text-align: center;
+        width: 90%;
+        margin: 0 auto;
+    }
+    #homeInfo_bottom .homeInfo_bottom_content h4 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    #homeInfo_bottom .homeInfo_bottom_content a {
+        display: block;
+        font-size: 13px;
+        padding: 13px 0px;
+        text-align: center;
+    }
+    #videoMetting .videoMetting_container {
+        width: 100%;
+    }
+    #videoMetting .videoMetting_container .videoMetting_top h3 {
+        font-size: 16px;
+    }
+    #videoMetting .videoMetting_container .videoMetting_top p {
+        font-size: 12px;
+        margin-top: 3px;
+    }
+    #videoMetting .videoMetting_container .videoMetting_form form input {
+        width: 100%;
+    }
+    #videoMetting .videoMetting_container .videoMetting_form form button {
+        width: 100%;
+    }
+    #footer {
+        height: 200px;
+    }
+    #home_faq .home_faq_main .home_faq_main_btn a {
+        display: block;
+        padding: 11px 0px;
+        text-align: center;
+    }
+    #become_memeber{
+        overflow: hidden !important;
+    }
+    #workshop_klub .workshop_klub_container .workshop_klub_item_button a {
+        display: block;
+        width: 100%;
+        margin-top: 10px;
+        margin-right: 0px;
+        text-align: center;
+    }
+    #heroHome{
+        overflow: hidden;
+    }
+    #calender_main .caleder_main_main_item:after {
+        display: none !important;
+    }
+    #calenderBanar {
+        padding: 40px 0px 0px 0px;
+    }
+    #calenderBanar .calenderBanar_container h3 {
+        font-size: 28px;
+    }
+    #calenderBanar .calenderBanar_container p {
+        font-size: 14px;
+    }
+    #calenderBanar .calenderBanar_container {
+        padding: 20px 10px;
+    }
+    #calenderBanar .calenderBanar_container img {
+        top: -10px;
+        left: 0px;
+        width: 123%;
+    }
+    #calender_top .calender_top_content h3 {
+        font-size: 18px;
+    }
+    #calender_top {
+        padding: 130px 0px 50px 0px;
+    }
+    #calender_top .calender_top_content .date_select .date_select_box {
+        width: 100%;
+    }
+    .calender_item_image > img {
+        height: 232px;
+    }
+    .calender_main_item_left{
+        margin-bottom: 10px;
+    }
+    #calender_main .calender_main_item .calender_item {
+        border-radius: 10px;
+    }
+    .calender_item_info_left {
+        padding-left: 16px;
+        padding-top: 9px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_right {
+        margin-top: 27px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_right h5 {
+        top: -185px;
+        right: -12px;
+        font-size: 12px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left ul li {
+        font-size: 12px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left h4 {
+        font-size: 13px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_left p {
+        font-size: 11px;
+        line-height: 19px;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info {
+        padding-bottom: 31px;
+    }
+    #videoPopUp .videoPopUp_container {
+        padding: 10px;
+        width: 100%;
+        max-height: 100%;
+        border-radius: 0px;
+    }
+    #videoPopUp .videoPopUpClose {
+        position: absolute;
+        top: 0px;
+        right: 10px;
+        color: #232323;
+        font-size: 20px;
+        cursor: pointer;
+        z-index: 999999;
+        background: #FF3A58;
+        color: #fff;
+        padding: 1px 10px;
+        border-radius: 2px;
+    }
+    #videoPopUp .videoPopUp_container .videoPopUp_container_info h4 {
+        font-size: 14px;
+    }
+    #videoPopUp .videoPopUp_container .videoPopUp_container_info p {
+        font-size: 11px;
+        margin-top: 3px;
+        line-height: 16px;
+        width: 100%;
+    }
+    #videoPopUp .videoPopUp_container .videoPopUp_container_info a {
+        display: block;
+        background: #FF3A58;
+        padding: 10px 0px;
+        text-align: center;
+    }
+    #calender_main {
+        padding: 0px 0px 0px 0px;
+    }
+    #calenderBanar .calenderBanar_container img {
+        top: -33px;
+        left: -7px;
+    }
+    #calenderBanar {
+        padding: 60px 0px 0px 0px;
+    }
+    #calender_top .calender_top_content .date_select .date_select_box {
+        width: 72%;
+    }
+    #calender_top .calender_top_content .date_select {
+        margin-top: 30px;
+    }
+    .craft_line_2{
+        display: block;
+    }
+    #calender_main .calender_main_item .calender_item .calender_item_info .calender_item_info_right a {
+        width: 100%;
+        position: relative;
+        left: 10px;
+    }
+    #calenderBanar .calenderBanar_container img {
+        position: absolute;
+        top: -45px;
+        left: -6px;
+        width: 109%;
+        z-index: -1;
+    }
+    #footer .scrollTop {
+        top: -30px;
+        right: 3px;
+    }
+    #footer .scrollTop img {
+        height: 64px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
